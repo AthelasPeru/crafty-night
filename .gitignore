@@ -58,3 +58,6 @@ target/
 
 venv/
 
+#FrontEnd
+app/static/bower_components/
+app/static/node_modules/
